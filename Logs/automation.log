@@ -1,0 +1,45 @@
+2024-06-20 09:51:56,522 - root - INFO -                                                
+2024-06-20 09:51:56,523 - root - INFO - ***** test_FKKART0001 execution started *****
+2024-06-20 09:51:56,523 - root - INFO - ***** Verify HomePage Title *****
+2024-06-20 09:52:02,333 - root - INFO - ***** Verify HomePage Title : Passed *****
+2024-06-20 09:52:02,384 - root - INFO - Popup element not found. Continuing normal flow.
+2024-06-20 09:52:05,529 - root - INFO - ***** Verify Search Results : Passed *****
+2024-06-20 09:52:06,079 - root - INFO - ***** Added Search Products to Compare : Passed *****
+2024-06-20 09:52:33,644 - root - INFO - ***** Cart Page opened : Passed *****
+2024-06-20 09:52:33,690 - root - INFO - ***** Prices Matched : Passed *****
+2024-06-20 09:52:35,008 - root - INFO - ***** Billing Page opened : Passed *****
+2024-06-20 09:52:35,660 - root - INFO - ***** Cart Updated : Passed *****
+2024-06-20 09:52:35,857 - root - INFO - ***** Items Removed : Passed *****
+2024-06-20 09:52:37,469 - root - INFO - ***** Cart Emptied : Passed *****
+2024-06-20 09:52:37,533 - root - INFO - ***** Browser Closed *****
+2024-06-20 09:52:37,533 - root - INFO - ***** test_FKKART0001 execution Completed *****
+2024-06-20 10:06:39,289 - root - INFO -                                                
+2024-06-20 10:06:39,323 - root - INFO - ***** test_FKKART0001 execution started *****
+2024-06-20 10:06:39,324 - root - INFO - ***** Verify HomePage Title *****
+2024-06-20 10:06:47,652 - root - INFO - ***** Verify HomePage Title : Passed *****
+2024-06-20 10:06:48,647 - root - INFO - Popup element not found. Continuing normal flow.
+2024-06-20 10:06:55,356 - root - INFO - ***** Verify Search Results : Passed *****
+2024-06-20 10:07:09,539 - root - INFO - ***** Added Search Products to Compare : Passed *****
+2024-06-20 10:07:14,782 - root - INFO - ***** Cart Page opened : Passed *****
+2024-06-20 10:07:14,832 - root - INFO - ***** Prices Matched : Passed *****
+2024-06-20 10:07:16,827 - root - INFO - ***** Billing Page opened : Passed *****
+2024-06-20 10:07:17,576 - root - INFO - ***** Cart Updated : Passed *****
+2024-06-20 10:07:17,894 - root - INFO - ***** Items Removed : Passed *****
+2024-06-20 10:07:18,674 - root - INFO - ***** Cart Emptied : Passed *****
+2024-06-20 10:07:18,764 - root - INFO - ***** Browser Closed *****
+2024-06-20 10:07:18,764 - root - INFO - ***** test_FKKART0001 execution Completed *****
+2024-06-20 10:18:03,101 - root - INFO -                                                
+2024-06-20 10:18:03,101 - root - INFO - ***** test_FKKART0001 execution started *****
+2024-06-20 10:18:03,102 - root - INFO - ***** Verify HomePage Title *****
+2024-06-20 10:18:09,138 - root - INFO - ***** Verify HomePage Title : Passed *****
+2024-06-20 10:18:09,387 - root - INFO - Popup element not found. Continuing normal flow.
+2024-06-20 10:18:13,550 - root - INFO - ***** Verify Search Results : Passed *****
+2024-06-20 10:18:21,633 - root - INFO - ***** Added Search Products to Compare : Passed *****
+2024-06-20 10:18:28,261 - root - INFO - ***** Cart Page opened : Passed *****
+2024-06-20 10:18:28,310 - root - INFO - ***** Prices Matched : Passed *****
+2024-06-20 10:18:29,666 - root - INFO - ***** Billing Page opened : Passed *****
+2024-06-20 10:18:30,347 - root - INFO - ***** Cart Updated : Passed *****
+2024-06-20 10:18:30,643 - root - INFO - ***** Items Removed : Passed *****
+2024-06-20 10:18:31,459 - root - INFO - ***** Cart Emptied : Passed *****
+2024-06-20 10:18:31,597 - root - INFO - ***** Browser Closed *****
+2024-06-20 10:18:31,597 - root - INFO - ***** test_FKKART0001 execution Completed *****
